@@ -33,14 +33,16 @@ python main.py
 ```
 ### Produces:
 
-- baseline_overlay.png
-- after_overlay.png
+- ![baseline_overlay](https://github.com/user-attachments/assets/bfb14f6b-eeb7-4b14-bd39-428c3c98c788)
+- ![after_overlay](https://github.com/user-attachments/assets/533057a9-4401-4f11-b79f-bb1f8a5729ef)
 
 ## Interactive Dashboard
 ```bash
 python visualization.py
 ```
 ### Then open http://127.0.0.1:8050/ in your browser.
+
+![Visualization](https://github.com/user-attachments/assets/afb267ca-c390-4a9a-a561-2995a45aa424)
 
 ## Core Algorithms & Their Roles
 
