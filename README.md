@@ -37,6 +37,7 @@ python main.py
 - ![after_overlay](https://github.com/user-attachments/assets/533057a9-4401-4f11-b79f-bb1f8a5729ef)
 
 ## Interactive Dashboard
+(It uses a subset of data for ease of understanding.)
 ```bash
 python visualization.py
 ```
