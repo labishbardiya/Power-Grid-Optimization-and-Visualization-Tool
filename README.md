@@ -23,7 +23,7 @@ This project models an electrical grid, computes optimal routing and network bac
 
 ## Installation & Requirements  
 ```bash
-git https://github.com/labishbardiya/Power-Grid-Optimization-and-Visualization-Tool/
+git clone https://github.com/labishbardiya/Power-Grid-Optimization-and-Visualization-Tool/
 cd Power-Grid-Optimization-and-Visualization-Tool
 pip install pandas networkx plotly dash dash-bootstrap-components
 ```
