@@ -80,3 +80,8 @@ Computes maximum flow from plant to city and identifies critical edges whose rem
 - Dijkstra, E. W. (1959). “A note on two problems in connexion with graphs.” Numerische Mathematik.
 - Kruskal, J. B. (1956). “On the shortest spanning subtree of a graph and the traveling salesman problem.” Proceedings of the American Mathematical Society.
 - Edmonds, J. & Karp, R. M. (1972). “Theoretical improvements in algorithmic efficiency for network flow problems.” Journal of the ACM.
+
+## Other Contributors
+
+- [Himanshu Garg](https://www.github.com/himanshu-garg10)
+- [Rakshika Sharma](https://www.github.com/rakshika1)
